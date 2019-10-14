@@ -3,7 +3,7 @@ Tesis de Grado a Ingeniería Electromecánica con énfasis en Electrónica - Her
 
 <b>Title:</b> Development of an UAV prototype for visual inspection of aerial electrical lines
 
-<b>Authors:</b>
+<b>Authors:</b> </br>
 Walter Benitez  walterbenitez7@gmail.com </br>
 Yessica Bogado  yessica.bogado@gmail.com </br>
 
